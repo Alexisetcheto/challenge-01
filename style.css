@@ -1,0 +1,141 @@
+
+body{
+    margin-left: 0px;
+    padding: opx;
+    background: #F3F5FC;
+}
+.encabezado{
+    margin: auto;
+    width: 960px;
+    height: 650px;
+    padding: 5px;
+   
+}
+.logo{
+    width: 100%;
+    float: left;
+    
+}
+.izquierda{
+    float: left;
+    width: 70%;
+    height: 70%;
+    border-radius: 24px;
+    
+}
+.derecha{
+    float: right;
+    width: 30%;
+    height: auto;
+    border-radius: 24px;
+    background: white;
+    
+}
+.botones{
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+    margin-top: auto; 
+}
+.logoImg{
+    margin-top: 1%;
+    margin-left: 5%;
+    float: inherit;
+}
+
+.text-input{
+    float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 80%;
+    height: 70%;
+    color: #0A3871;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    background: #F3F5FC;
+}
+
+.texto3{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: #0A3871;
+    font-size: 20px;
+}
+
+#imgDer{
+    margin-top: 20%;
+    margin-left: 2%;
+    width: 90%;
+    height: auto;
+}
+#texto{
+    margin-left: 7%;
+    margin-top: 5%;
+    text-align: center;
+    color: #0A3871;
+    font-size: 20px;
+}
+#texto2{
+    float: left;
+    margin-left: 10%;
+    color: #0A3871;
+    width: 80%;
+    height: 60%;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 20px;
+}
+#btn-encriptar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 15%;
+    background: #0A3871;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: 'inter';
+    font-size: 30px;
+    border: 1px solid #0A3871;
+    color: white;
+}
+#btn-desencriptar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 10%;
+    background: #D8DFEB;
+    font-family: 'inter';
+    font-size: 30px;
+    color:#0A3871 ;
+    border: 1px solid #0A3871;
+    cursor: pointer;
+}
+#copiar{
+    margin-left: 33%;
+    margin-top: 95%;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+    background: #D8DFEB;
+    border-radius: 24px;
+    display: none;
+    font-family: 'inter';
+    font-size: 30px;
+    text-align: center;
+    color: #0A3871;
+    border: 1px solid #0A3871;
+    cursor: pointer;
+}
+.foot p{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: #0A3871;
+    padding: auto;
+}
